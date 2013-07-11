@@ -1,0 +1,14 @@
+{
+	"options": {
+    	"name": "Faithful 32x32",
+    	"url": "http://www.faithful32x32.com/",
+    	"packurl": "http://www.faithful32x32.com/dl/faithful32pack.zip",
+    	"zipsurl": "http://www.faithful32x32.com/dl/mod/",
+    	"iconurl": "http://www.faithful32x32.com/patcher/icon.png",
+    	"skin": "Nimbus"
+    },
+
+	"mods": {
+    	
+	}
+}

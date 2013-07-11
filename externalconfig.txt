@@ -1,0 +1,2 @@
+http://www.faithful32x32.com/patcher/config.json
+http://www.faithful32x32.com/patcher/branches.json

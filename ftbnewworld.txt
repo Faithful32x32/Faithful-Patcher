@@ -1,0 +1,54 @@
+MCP
+FML
+Forge
+Treecapitator
+CodeChicken Core
+CoFH Core
+Dynamic Lights
+Immibis' Microblocks
+NEI
+PowerCrystals Core
+ArmorStatusHUD
+bspkrsCore
+DirectionHUD
+StatusEffectHUD
+Rei's Minimap
+Hit Splat Damage Indicators
+Jammy's Furniture Mod
+Chainz
+Advanced Machines
+Applied Energistics
+Bibliocraft
+BladeCraft
+Buildcraft
+Additional BC Objects
+Compact Solars
+ComputerCraft
+EnderStorage
+ExtraBees
+ExtraBiomesXL
+Factorization
+Fancy Glass
+Forestry
+Immibis' Core
+IC2
+Inventory Tweaks
+Iron Chests
+Metallurgy
+Meteors Mod
+Millenairs
+MineFactory Reloaded
+Mob Amputation
+Advanced Solars
+NEI Addons
+NEI Plugins
+OmniTools
+Pet Bats
+Power Converters
+Railcraft
+Soul Shards
+Steve's Carts
+Tinkers Construct
+Thermal Expansion
+Traincraft
+Tubestuff
