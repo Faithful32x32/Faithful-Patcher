@@ -1,2 +1,2 @@
-http://www.faithful32x32.com/patcher/config.json
-http://www.faithful32x32.com/patcher/branches.json
+https://raw.github.com/Faithful32x32/Faithful-Patcher/master/config.json
+https://raw.github.com/Faithful32x32/Faithful-Patcher/master/branches.json

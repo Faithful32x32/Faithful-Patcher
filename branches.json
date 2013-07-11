@@ -2,11 +2,11 @@
     "branches": {
         "1.6.X Branch": {
             "name": "1.6.X Mods",
-            "url": "http://www.faithful32x32.com/patcher/config(1.6.x).json"
+            "url": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/config(1.6.X).json"
         },
         "1.5.X Branch": {
             "name": "1.5.X Mods",
-            "url": "http://www.faithful32x32.com/patcher/config(1.5.x).json"
+            "url": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/config(1.5.X).json"
         }
     }
 }

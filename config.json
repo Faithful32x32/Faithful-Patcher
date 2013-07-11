@@ -1,0 +1,50 @@
+{
+	"options": {
+    	"name": "Faithful 32x32",
+    	"url": "http://www.faithful32x32.com/",
+    	"packurl": "http://www.faithful32x32.com/dl/faithful32pack_1_5_2.zip",
+    	"zipsurl": "http://www.faithful32x32.com/dl/mod/",
+    	"iconurl": "http://www.faithful32x32.com/patcher/icon.png",
+    	"skin": "Nimbus"
+    },
+
+	"mods": {
+		"Additional Buildcraft Objects": {
+			"version": "1.0.6",
+			"mcversion": "1.5.X"
+		},
+		"Additional Pipes": {
+			"version": "2.3.1",
+			"mcversion": "1.5.X"
+		},
+    	"Backpacks": {
+        	"version": "1.12.13",
+        	"mcversion": "1.5.X"
+    	},
+    	"Buildcraft 3": {
+        	"version": "3.7.1",
+        	"mcversion": "1.5.X"
+    	},
+    	"ChickenChunks": {
+    		"version": "1.3.2.14",
+    		"mcversion": "1.5.X"
+    	},
+    	"ComputerCraft": {
+    		"version": "1.53",
+    		"mcversion": "1.5.X"
+    	},
+    	"CraftGuide": {
+    		"version": "1.6.7.2",
+    		"mcversion": "1.5.X"
+    	},
+    	"MiscPeripherals": {
+    		"version": "3.3f",
+    		"mcversion": "1.5.X"
+    	}
+	}
+
+	//"modpacks": {
+    //"FTB Magic Farm": "http://www.faithful32x32.com/patcher/modpacks/ftbmagicfarm.txt",
+    //"FTB New World": "http://www.faithful32x32.com/patcher/modpacks/ftbnewworld.txt"
+	//}
+}
