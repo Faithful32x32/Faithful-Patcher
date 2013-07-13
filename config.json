@@ -9,54 +9,54 @@
     },
 
 	"mods": {
-	"Additional Buildcraft Objects": {
-		"version": "1.0.6",
-		"mcversion": "1.5.X"
-	},
-	"Additional Pipes": {
-		"version": "2.3.1",
-		"mcversion": "1.5.X"
-	},
-    	"Backpacks": {
-        	"version": "1.12.13",
-        	"mcversion": "1.5.X"
-    	},
-    	"Buildcraft": {
-        	"version": "3.7.1",
-        	"mcversion": "1.5.X"
-    	},
-    	"ComputerCraft": {
-    		"version": "1.53",
-    		"mcversion": "1.5.X"
-    	},
-    	"CraftGuide": {
-    		"version": "1.6.7.2",
-    		"mcversion": "1.5.X"
-    	},
-    	"Diamond Buckets+": {
-    		"version": "0.98c",
-    		"mcversion": "1.5.X"
-    	},
-    	"Elemental Arrows": {
-    		"version": "1.5.2",
-    		"mcversion": "1.5.X"
-    	},
-    	"Enchanting Plus": {
-    		"version": "1.14",
-    		"mcversion": "1.5.X"
-    	},
-    	"Ender Storage": {
-    		"version": "1.4.2.12",
-    		"mcversion": "1.5.X"
-    	},
-    	"ExtrabiomesXL": {
-    		"version": "3.13.4",
-    		"mcversion": "1.5.X"
-    	},
-    	"MiscPeripherals": {
-    		"version": "3.3f",
-    		"mcversion": "1.5.X"
-    	}
+		"Additional Buildcraft Objects": {
+			"version": "1.0.6",
+			"mcversion": "1.5.X"
+		},
+		"Additional Pipes": {
+			"version": "2.3.1",
+			"mcversion": "1.5.X"
+		},
+    		"Backpacks": {
+        		"version": "1.12.13",
+        		"mcversion": "1.5.X"
+    		},
+    		"Buildcraft": {
+        		"version": "3.7.1",
+        		"mcversion": "1.5.X"
+    		},
+    		"ComputerCraft": {
+    			"version": "1.53",
+    			"mcversion": "1.5.X"
+    		},
+    		"CraftGuide": {
+    			"version": "1.6.7.2",
+    			"mcversion": "1.5.X"
+    		},
+    		"Diamond Buckets+": {
+    			"version": "0.98c",
+    			"mcversion": "1.5.X"
+    		},
+    		"Elemental Arrows": {
+    			"version": "1.5.2",
+    			"mcversion": "1.5.X"
+    		},
+    		"Enchanting Plus": {
+    			"version": "1.14",
+    			"mcversion": "1.5.X"
+    		},
+    		"Ender Storage": {
+    			"version": "1.4.2.12",
+    			"mcversion": "1.5.X"
+    		},
+    		"ExtrabiomesXL": {
+    			"version": "3.13.4",
+    			"mcversion": "1.5.X"
+    		},
+    		"MiscPeripherals": {
+    			"version": "3.3f",
+    			"mcversion": "1.5.X"
+    		}
 	}
 
 	//"modpacks": {
