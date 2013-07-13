@@ -58,9 +58,4 @@
     			"mcversion": "1.5.X"
     		}
 	}
-
-	//"modpacks": {
-    //"FTB Magic Farm": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/ftbmagicfarm.txt",
-    //"FTB New World": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/ftbnewworld.txt"
-	//}
 }
