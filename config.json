@@ -9,14 +9,14 @@
     },
 
 	"mods": {
-		"Additional Buildcraft Objects": {
-			"version": "1.0.6",
-			"mcversion": "1.5.X"
-		},
-		"Additional Pipes": {
-			"version": "2.3.1",
-			"mcversion": "1.5.X"
-		},
+	"Additional Buildcraft Objects": {
+		"version": "1.0.6",
+		"mcversion": "1.5.X"
+	},
+	"Additional Pipes": {
+		"version": "2.3.1",
+		"mcversion": "1.5.X"
+	},
     	"Backpacks": {
         	"version": "1.12.13",
         	"mcversion": "1.5.X"
@@ -43,11 +43,11 @@
     	},
     	"Enchanting Plus": {
     		"version": "1.14",
-    		"mcversion"
+    		"mcversion": "1.5.X"
     	},
     	"Ender Storage": {
     		"version": "1.4.2.12",
-    		"mcversion":
+    		"mcversion": "1.5.X"
     	},
     	"ExtrabiomesXL": {
     		"version": "3.13.4",
