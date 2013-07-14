@@ -3,7 +3,7 @@
     	"name": "Faithful 32x32",
     	"url": "http://www.faithful32x32.com/",
     	"packurl": "http://www.faithful32x32.com/dl/faithful32pack_1_4_7.zip",
-    	"zipsurl": "http://www.faithful32x32.com/dl/modpatcher/",
+    	"zipsurl": "https://github.com/Faithful32x32/Faithful-Textures/blob/master/1.4.X/",
     	"iconurl": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/icon.png",
     	"skin": "Nimbus"
     },
