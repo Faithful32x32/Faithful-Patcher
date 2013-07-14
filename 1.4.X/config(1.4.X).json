@@ -36,13 +36,13 @@
 	},
 	
 	"modpacks": {
-    	"FTB Direwolf20": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/ftbdirewolf20.txt",
-    	"FTB Ultimate": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/ftbultimate.txt",
-        "FTB Mindcrack": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/ftbmindcrack.txt",
-        "FTB YogCraft": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/ftbyogcraft.txt",
-        "FTB Lite": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/ftblite.txt",
-        "FTB Magic World": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/ftbmagicworld.txt",
-        "FTB Tech World": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/ftbtechworld.txt",
-        "FTB Slow's Stream Pack": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/ftbslowsstreampack.txt"
+    	"FTB Direwolf20": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/1.4.X/ftbdirewolf20.txt",
+    	"FTB Ultimate": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/1.4.X/ftbultimate.txt",
+        "FTB Mindcrack": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/1.4.X/ftbmindcrack.txt",
+        "FTB YogCraft": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/1.4.X/ftbyogcraft.txt",
+        "FTB Lite": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/1.4.X/ftblite.txt",
+        "FTB Magic World": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/1.4.X/ftbmagicworld.txt",
+        "FTB Tech World": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/1.4.X/ftbtechworld.txt",
+        "FTB Slow's Stream Pack": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/1.4.X/ftbslowsstreampack.txt"
     	}
 }
