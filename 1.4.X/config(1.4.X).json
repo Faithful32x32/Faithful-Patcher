@@ -13,6 +13,10 @@
             "version": "1.7.8",
             "mcversion": "1.4.X"
         },
+        "Buildcraft": {
+        	"version": "3.4.3",
+        	"mcversion": "1.4.X"
+        },
         "CameraCraft": {
             "version": "2.3",
             "mcversion": "1.4.X"
@@ -29,10 +33,138 @@
             "version": "1.6.6",
             "mcversion": "1.4.X"
         },
+        "Diamond Buckets+" : {
+        	"version": "0.95",
+        	"mcversion": "1.4.X"
+        },
+        "Dimensional Anchors" : {
+        	"version": "52.2.0",
+        	"mcversion": "1.4.X"
+        },
+        "Enchanting Plus" : {
+        	"version": "1.12.9",
+        	"mcversion": "1.4.X"
+        },
+        "Ender Storage" : {
+        	"version": "1.4.1.5",
+        	"mcversion": "1.4.X"
+        },
+        "ExtrabiomesXL" : {
+        	"version": "3.11.0",
+        	"mcversion": "1.4.X"
+        },
+        "Factorization" : {
+        	"version": "0.7.21",
+        	"mcversion": "1.4.X"
+        },
+        "GUI API" : {
+        	"version": "0.15.2",
+        	"mcversion": "1.4.X"
+        },
+        "Gravity Gun" : {
+        	"version": "1.4.7v2",
+        	"mcversion": "1.4.X"
+        },
+        "IC2 Advanced Power Management" : {
+        	"version": "",
+        	"mcversion": "1.4.X"
+        },
+        "IC2 Advanced Machines" : {
+        	"version": "4.7b",
+        	"mcversion": "1.4.X"
+        },
+        "IC2 Compact Solars" : {
+        	"version": "4.0.3.29",
+        	"mcversion": "1.4.X"
+        },
+        "IC2 GregTech Addon" : {
+        	"version": "2.90h",
+        	"mcversion": "1.4.X"
+        },
+        "IC2 Modular Force Field System" : {
+        	"version": "2.2.8.3.6",
+        	"mcversion": "1.4.X"
+        },
+        "IC2 Nuclear Control" : {
+        	"version": "1.4.6",
+        	"mcversion": "1.4.X"
+        },
+        "IC2 Petroleum Generator" : {
+        	"version": "1.2.1",
+        	"mcversion": "1.4.X"
+        },
+        "IndustrialCraft 2" : {
+        	"version": "1.115.231",
+        	"mcversion": "1.4.X"
+        },
+        "Iron Chests" : {
+        	"version": "5.1.0.275",
+        	"mcversion": "1.4.X"
+        },
+        "iPod Mod" : {
+        	"version": "3.8",
+        	"mcversion": "1.4.X"
+        },
         "MiscPeripherals": {
             "version": "3.1",
             "mcversion": "1.4.X"
-        }
+        },
+        "More Pistons" : {
+        	"version": "1.2.4",
+        	"mcversion": "1.4.X"
+        },
+        "Multi-Page Chest" : {
+        	"version": "1.2.2",
+        	"mcversion": "1.4.X"
+        },
+        "6.17.0.0" : {
+        	"version": "",
+        	"mcversion": "1.4.X"
+        },
+        "Redpower 2" : {
+        	"version": "pre6",
+        	"mcversion": "1.4.X"
+        },
+        "Smart Moving" : {
+        	"version": "13.1",
+        	"mcversion": "1.4.X"
+        },
+        "Steve's Carts 2" : {
+        	"version": "2.0.0a62",
+        	"mcversion": "1.4.X"
+        },
+        "Soul Shards" : {
+        	"version": "1.26",
+        	"mcversion": "1.4.X"
+        },
+        "Thaumcraft 3" : {
+        	"version": "3.0.3",
+        	"mcversion": "1.4.X"
+        },
+        "Thermal Expansion 2" : {
+        	"version": "2.2.2.2",
+        	"mcversion": "1.4.X"
+        },
+        "Twilight Forest" : {
+        	"version": "1.15.4",
+        	"mcversion": "1.4.X"
+        },
+        "Wildcaves 3" : {
+        	"version": "0.3.2",
+        	"mcversion": "1.4.X"
+        },
+        "Wildgrass (ejhopkins)" : {
+        	"version": "16.0",
+        	"mcversion": "1.4.X"
+        },
+        "Wireless Redstone" : {
+        	"version": "1.6.1",
+        	"mcversion": "1.4.X"
+        },
+        "Wireless Redstone ChickenBones Edition" : {
+        	"version": "1.3.3",
+        	"mcversion": "1.4.X"
+        },
 	},
 	
 	"modpacks": {
