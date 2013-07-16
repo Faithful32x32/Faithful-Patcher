@@ -57,12 +57,12 @@
         	"version": "0.7.21",
         	"mcversion": "1.4.X"
         },
-        "GUI API" : {
-        	"version": "0.15.2",
-        	"mcversion": "1.4.X"
-        },
         "Gravity Gun" : {
         	"version": "1.4.7v2",
+        	"mcversion": "1.4.X"
+        },
+        "GUI API" : {
+        	"version": "0.15.2",
         	"mcversion": "1.4.X"
         },
         "IC2 Advanced Power Management" : {
