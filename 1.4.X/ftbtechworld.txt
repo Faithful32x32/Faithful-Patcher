@@ -1,3 +1,0 @@
-ChickenChunks
-ComputerCraft
-MiscPeripherals

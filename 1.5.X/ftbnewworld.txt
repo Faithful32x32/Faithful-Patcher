@@ -1,7 +1,0 @@
-Additional_Buildcraft_Objects
-Backpacks
-ComputerCraft
-CraftGuide
-Diamond_Buckets+
-Ender_Storage
-ExtrabiomesXL
