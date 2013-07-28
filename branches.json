@@ -1,9 +1,5 @@
 {
     "branches": {
-        "1.4.X Branch": {
-            "name": "1.4.X Mods",
-            "url": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/1.4.X/config(1.4.X).json"
-        },
         "1.5.X Branch": {
             "name": "1.5.X Mods",
             "url": "https://raw.github.com/Faithful32x32/Faithful-Patcher/master/1.5.X/config(1.5.X).json"
