@@ -209,5 +209,8 @@
 			"version": "1.7",
 			"mcversion": "1.5.X"
 		}
+	},
+	"modpacks": {
+		"": ""
 	}
 }
