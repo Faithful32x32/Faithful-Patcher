@@ -37,6 +37,10 @@
 			"version": "3.3.7",
 			"mcversion": "1.5.X"
 		},
+		"Backpacks": {
+			"version": "1.12.13",
+			"mcversion": "1.5.X"
+		},
 		"Balkons WeaponMod": {
 			"version": "1.13",
 			"mcversion": "1.5.X"
@@ -121,8 +125,16 @@
 			"version": "1.117",
 			"mcversion": "1.5.X"
 		}
+		"IronChests": {
+			"version": "5.2",
+			"mcversion": "1.5.X"
+		}
 		"Logistics Pipes": {
 			"version": "0.7.3.6",
+			"mcversion": "1.5.X"
+		}
+		"MiscPeripherals": {
+			"version": "3.3",
 			"mcversion": "1.5.X"
 		}
 		"Modular Force Fields System": {
