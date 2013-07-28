@@ -177,6 +177,10 @@
 			"version": "3.0",
 			"mcversion": "1.5.X"
 		}
+		"PortalGun": {
+			"version": "1.5.2",
+			"mcversion": "1.5.X"
+		}
 		"Railcraft": {
 			"version": "7.3.0.0",
 			"mcversion": "1.5.X"
@@ -189,7 +193,7 @@
 			"version": "1.0.36",
 			"mcversion": "1.5.X"
 		}
-		"Steve's Carts": {
+		"Steves Carts": {
 			"version": "2.a122",
 			"mcversion": "1.5.X"
 		}
