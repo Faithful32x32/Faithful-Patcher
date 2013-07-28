@@ -57,20 +57,20 @@
         	"version": "0.7.21",
         	"mcversion": "1.4.X"
         },
-        "GUI API" : {
-        	"version": "0.15.2",
-        	"mcversion": "1.4.X"
-        },
         "Gravity Gun" : {
         	"version": "1.4.7v2",
         	"mcversion": "1.4.X"
         },
-        "IC2 Advanced Power Management" : {
-        	"version": "",
+        "GUI API" : {
+        	"version": "0.15.2",
         	"mcversion": "1.4.X"
         },
         "IC2 Advanced Machines" : {
         	"version": "4.7b",
+        	"mcversion": "1.4.X"
+        },
+        "IC2 Advanced Power Management" : {
+        	"version": "",
         	"mcversion": "1.4.X"
         },
         "IC2 Compact Solars" : {
@@ -113,12 +113,12 @@
         	"version": "1.2.4",
         	"mcversion": "1.4.X"
         },
-        "Multi-Page Chest" : {
+        "Multi Page Chest" : {
         	"version": "1.2.2",
         	"mcversion": "1.4.X"
         },
-        "6.17.0.0" : {
-        	"version": "",
+        "Railcraft" : {
+        	"version": "6.17.0.0",
         	"mcversion": "1.4.X"
         },
         "Redpower 2" : {
