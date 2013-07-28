@@ -9,14 +9,14 @@
     },
 
 	"mods": {
-		"Additional Buildcraft Objects": {
-			"version": "1.0.6",
-			"mcversion": "1.5.X"
-		},
-		"Additional Pipes": {
-			"version": "2.3.1",
-			"mcversion": "1.5.X"
-		},
+			"Additional Buildcraft Objects": {
+				"version": "1.0.6",
+				"mcversion": "1.5.X"
+			},
+			"Additional Pipes": {
+				"version": "2.3.1",
+				"mcversion": "1.5.X"
+			},
     		"Backpacks": {
         		"version": "1.12.13",
         		"mcversion": "1.5.X"
@@ -51,6 +51,54 @@
     		},
     		"ExtrabiomesXL": {
     			"version": "3.13.4",
+    			"mcversion": "1.5.X"
+    		},
+    		"Finite Liquid": {
+    			"version": "5.93",
+    			"mcversion": "1.5.X"
+    		},
+    		"Forestry": {
+    			"version": "2.2.8.4",
+    			"mcversion": "1.5.X"
+    		},
+    		"Gravity Gun": {
+    			"version": "1.5.1v1",
+    			"mcversion": "1.5.X"
+    		},
+    		"GUI API": {
+    			"version": "-",
+    			"mcversion": "1.5.X"
+    		},
+    		"IC2 Advanced Alloys": {
+    			"version": "0.8a",
+    			"mcversion": "1.5.X"
+    		},
+    		"IC2 Advanced Machines (AtomicStryker)": {
+    			"version": "5.1",
+    			"mcversion": "1.5.X"
+    		},
+    		"IC2 Advanced Power Management": {
+    			"version": "1.2.68",
+    			"mcversion": "1.5.X"
+    		},
+    		"IC2 Advanced Solar Panels": {
+    			"version": "3.3.7",
+    			"mcversion": "1.5.X"
+    		},
+    		"IC2 ChargePads": {
+    			"version": "2.7.1",
+    			"mcversion": "1.5.X"
+    		},
+    		"IC2 Compact Solars": {
+    			"version": "4.1",
+    			"mcversion": "1.5.X"
+    		},
+    		"IC2 Gravitation Suite": {
+    			"version": "1.9.3",
+    			"mcversion": "1.5.X"
+    		},
+    		"IndustrialCraft 2": {
+    			"version": "1.117",
     			"mcversion": "1.5.X"
     		},
     		"MiscPeripherals": {
